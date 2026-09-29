@@ -9,3 +9,8 @@ Ta dig ut innan gryningen!
 Fiender:
 - Zombie – går fram och tillbaka
 - Fladdermus – flyger i vågor
+
+
+Kontroller:
+- A / D – gå åt vänster och höger
+- Mellanslag – hoppa
